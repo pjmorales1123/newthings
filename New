@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Web Designing</title>
+</head>
+
+<body>
+
+This is text will be displayed with default color, size and font style. <font size="5" color="green"><b>you are learning web designing</b></font>
+
+<i>text will be displayed in italic </i>
+
+<u>text will be displayed underlined</u>
+
+</body>
+
+</html>
